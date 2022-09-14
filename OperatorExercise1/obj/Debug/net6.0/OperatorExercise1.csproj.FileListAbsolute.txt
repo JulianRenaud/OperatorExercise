@@ -1,0 +1,15 @@
+C:\Users\Pearl-Laptop\Desktop\Repos\OperatorExercise1\OperatorExercise1\obj\Debug\net6.0\OperatorExercise1.csproj.AssemblyReference.cache
+C:\Users\Pearl-Laptop\Desktop\Repos\OperatorExercise1\OperatorExercise1\obj\Debug\net6.0\OperatorExercise1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pearl-Laptop\Desktop\Repos\OperatorExercise1\OperatorExercise1\obj\Debug\net6.0\OperatorExercise1.AssemblyInfoInputs.cache
+C:\Users\Pearl-Laptop\Desktop\Repos\OperatorExercise1\OperatorExercise1\obj\Debug\net6.0\OperatorExercise1.AssemblyInfo.cs
+C:\Users\Pearl-Laptop\Desktop\Repos\OperatorExercise1\OperatorExercise1\obj\Debug\net6.0\OperatorExercise1.csproj.CoreCompileInputs.cache
+C:\Users\Pearl-Laptop\Desktop\Repos\OperatorExercise1\OperatorExercise1\bin\Debug\net6.0\OperatorExercise1.exe
+C:\Users\Pearl-Laptop\Desktop\Repos\OperatorExercise1\OperatorExercise1\bin\Debug\net6.0\OperatorExercise1.deps.json
+C:\Users\Pearl-Laptop\Desktop\Repos\OperatorExercise1\OperatorExercise1\bin\Debug\net6.0\OperatorExercise1.runtimeconfig.json
+C:\Users\Pearl-Laptop\Desktop\Repos\OperatorExercise1\OperatorExercise1\bin\Debug\net6.0\OperatorExercise1.dll
+C:\Users\Pearl-Laptop\Desktop\Repos\OperatorExercise1\OperatorExercise1\bin\Debug\net6.0\OperatorExercise1.pdb
+C:\Users\Pearl-Laptop\Desktop\Repos\OperatorExercise1\OperatorExercise1\obj\Debug\net6.0\OperatorExercise1.dll
+C:\Users\Pearl-Laptop\Desktop\Repos\OperatorExercise1\OperatorExercise1\obj\Debug\net6.0\refint\OperatorExercise1.dll
+C:\Users\Pearl-Laptop\Desktop\Repos\OperatorExercise1\OperatorExercise1\obj\Debug\net6.0\OperatorExercise1.pdb
+C:\Users\Pearl-Laptop\Desktop\Repos\OperatorExercise1\OperatorExercise1\obj\Debug\net6.0\OperatorExercise1.genruntimeconfig.cache
+C:\Users\Pearl-Laptop\Desktop\Repos\OperatorExercise1\OperatorExercise1\obj\Debug\net6.0\ref\OperatorExercise1.dll
